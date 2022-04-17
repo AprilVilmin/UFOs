@@ -13,16 +13,16 @@ One drawback I see on the design of the new website is that there is not a butto
 
 ### 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![15 min..png](https://github.com/AprilVilmin/UFOs/blob/main/15%20min..png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![10_00.png](https://github.com/AprilVilmin/UFOs/blob/main/10_00.png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![2 min.png](https://github.com/AprilVilmin/UFOs/blob/main/2%20min.png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![30 minuets.png](https://github.com/AprilVilmin/UFOs/blob/main/30%20minuets.png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![4-6 minutes.png](https://github.com/AprilVilmin/UFOs/blob/main/4-6%20minutes.png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![5 mins..png](https://github.com/AprilVilmin/UFOs/blob/main/5%20mins..png) 
 
-![June Temps.png](https://github.com/AprilVilmin/surfs_up/blob/main/June%20Temps.png) 
+![8 mins.png](https://github.com/AprilVilmin/UFOs/blob/main/8%20mins.png) 
