@@ -26,11 +26,14 @@ There are two ways two reset the filters so that you can set a new filter. The f
 ![Website 4.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%204.png) 
 
 ### Website Filtered by Date and Shape
+In the example below both the 'Enter Date' filter and the 'Enter a Shape' filter are utilized. The date of '1/8/2010' was entered in the 'Enter Date' field in the above example and then the additional filter of 'light' was entered in the 'Enter a Shape' filter. Prior to setting the filters in this example, the filter(s) had to be reset using one of the two ways outlined above.
 
 ![Website 5.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%205.png) 
-### Website Filtered by Country
-![Website 6.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%206.png) 
 
+### Website Filtered by Country
+In the example below, 'ca' for Canada was entered in the 'Enter a Country'. Prior to setting the filters in this example, the filter(s) had to be reset using one of the two ways outlined above.
+
+![Website 6.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%206.png) 
 
 
 ## Summary 
