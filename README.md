@@ -11,9 +11,13 @@ The website can be used to access a variety of information regarding UFO sightin
 ![Website 7.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%207.png) 
 
 ### Website Filtered by Date
+There are five filters on the left side of the screen. You can filter by date by entering a date in the 'Enter Date' filter. In the example below the date of '1/8/2010' was entered. When filtered on this date only the sightings with the date of '1/8/2010' are displayed.
+
 ![Website 2.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%202.png) 
 
 ### Website Filtered by Date and City
+More than one sfilter can be used at a time. In the example below both the 'Enter Date' filter and the 'Enter a City' filter are utilized. The date of '1/8/2010' was entered in the 'Enter Date' field and 'boulder' in the 'Enter a City' filter.
+
 ![Website 3.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%203.png) 
 
 ### Website Filtered by State
