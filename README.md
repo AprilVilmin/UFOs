@@ -16,11 +16,13 @@ There are five filters on the left side of the screen. You can filter by date by
 ![Website 2.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%202.png) 
 
 ### Website Filtered by Date and City
-More than one sfilter can be used at a time. In the example below both the 'Enter Date' filter and the 'Enter a City' filter are utilized. The date of '1/8/2010' was entered in the 'Enter Date' field and 'boulder' in the 'Enter a City' filter.
+More than one filter can be applied at a time. In the example below both the 'Enter Date' filter and the 'Enter a City' filter are utilized. The date of '1/8/2010' was entered in the 'Enter Date' field in the above example and then the additional filter of 'boulder' was entered in the 'Enter a City' filter.
 
 ![Website 3.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%203.png) 
 
 ### Website Filtered by State
+There are two ways two reset the filters so that you can set a new filter. The first is to click the reset button at the top of the page and the second is to delete/back out the text that was entered previously in the filter fields and hit the enter button. Both of these options will return the website to the inital status. Then enter the state abbreviation (in lower case letters) in the 'Enter a State' filter and press the 'Enter' key. The example below is filtered to the state of California (using the abbreviation of 'ca').
+
 ![Website 4.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%204.png) 
 
 ### Website Filtered by Date and Shape
