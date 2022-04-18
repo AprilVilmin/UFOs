@@ -4,7 +4,7 @@
 McMinnville, OR is the home of multiple UFO sightings and is the hometown of Dana a data journalist who loves to write about them. Dana is writing an aritcle about UFO sightings and as a JavaScript File with this data on it. This file contains information on countries, states and cities. Dana plans to use the information from the Java Script file to create vizsualizations. Dana wants to publish her article and visualizations as a html page. Dana's inital html is working, but she wants to enhance it's functionality by adding filters for shape, city, state and country.
 
 ## Results
-The website can be used to access a variety of information regarding UFO sightings including when they happened, what city, state, and country they happened in, what the shape of the UFO was, the duration of the sighting and what comments, if any, are available per sightng. The website also provies a search feature where you can filter by date, city, state, country or shape. You can also sort using any combination of these filters.
+The website can be used to access a variety of information regarding UFO sightings including when they happened, what city, state, and country they happened in, what the shape of the UFO was, the duration of the sighting and what comments, if any, are available per sightng. The website also provies a search feature where you can filter by date, city, state, country or shape. You can also sort using any combination of these filters. Please see the screenshots below for additional details.
 
 ### Website (Unfiltered)
 ![Website 1.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%201.png) 
