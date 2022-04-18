@@ -8,6 +8,7 @@ The website can be used to access a variety of information regarding UFO sightin
 
 ### Website (Unfiltered)
 ![Website 1.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%201.png) 
+![Website 7.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%207.png) 
 
 ### Website Filtered by Date
 ![Website 2.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%202.png) 
