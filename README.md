@@ -4,8 +4,26 @@
 McMinnville, OR is the home of multiple UFO sightings and is the hometown of Dana a data journalist who loves to write about them. Dana is writing an aritcle about UFO sightings and as a JavaScript File with this data on it. This file contains information on countries, states and cities. Dana plans to use the information from the Java Script file to create vizsualizations. Dana wants to publish her article and visualizations as a html page. Dana's inital html is working, but she wants to enhance it's functionality by adding filters for shape, city, state and country.
 
 ## Results
+The website can be used to access a variety of information regarding UFO sightings including when they happened, what city, state, and country they happened in, what the shape of the UFO was, the duration of the sighting and what comments, if any, are available per sightng. The website also provies a search feature where you can filter by date, city, state, country or shape. You can also sort using any combination of these filters.
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+### Website (Unfiltered)
+![Website 1.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%201.png) 
+
+### Website Filtered by Date
+![Website 2.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%202.png) 
+
+### Website Filtered by Date and City
+![Website 3.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%203.png) 
+
+### Website Filtered by State
+![Website 4.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%204.png) 
+
+### Website Filtered by Date and Shape
+
+![Website 5.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%205.png) 
+### Website Filtered by Country
+![Website 6.png](https://github.com/AprilVilmin/UFOs/blob/main/Website%206.png) 
+
 
 
 ## Summary 
